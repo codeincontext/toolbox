@@ -4,6 +4,8 @@ Resources and tools for modern web production. An opinionated but flexible docum
 
 Useful for me to stash links, probably not useful for you yet.
 
+*Disclaimer: The right tool depends on the project's needs and not just your hipster whims*
+
 ## View Structure
 
 [React](https://facebook.github.io/react/)
