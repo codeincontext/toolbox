@@ -15,7 +15,7 @@ Useful for me to stash links, probably not useful for you yet.
 
 CSS has various natural properties that (if untamed) lead to mess and uncertainty. Lack of scoping, specifity conflicts, and dead code problems can be managed with careful component-based naming conventions or view-managed styling.
 
-[CSS Modules](https://github.com/css-modules/css-modules)([explanation](http://glenmaddern.com/articles/css-modules) uses generated classnames so you can write css scoped to your component. Also, its `compose` pattern is much cleaner than SASS's extend.
+[CSS Modules](https://github.com/css-modules/css-modules) uses generated classnames so you can write css scoped to your component. Also, its `compose` pattern is much cleaner than SASS's extend. For more info, see this great [guide](http://glenmaddern.com/articles/css-modules).
 
 If you can't use CSS Modules, a naming pattern like [SUIT CSS](http://suitcss.github.io) or BEM will help to constrain specificity and modularise CSS.
 
