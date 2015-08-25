@@ -40,9 +40,13 @@ Tape
 ## Backend
 
 Ruby on Rails for core logic (or indeed code monoliths).
+
 Elixir/Phoenix is great in theory (so long as you're the only one on the project).
+
 Go is good for services and pipes.
+
 Node is good for isometric web apps.
+
 Meteor is great for when you need magic glue between frontend and backend. Very good for prototyping, great as a backend to React.
 
 ## Accessibility
@@ -60,6 +64,7 @@ Meteor is great for when you need magic glue between frontend and backend. Very 
 ## Design Inspiration
 
 [CALLTOIDEA](http://www.calltoidea.com)
+
 [Little Big Details](http://littlebigdetails.com)
 
 ## Low Fidelity Design Production
