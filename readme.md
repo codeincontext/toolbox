@@ -1,8 +1,16 @@
 # Repository of Tooling
 
-Resources and tools for modern web production. An opinionated but flexible document.
+A list of resources and tools for modern web development. Mostly a personal list
+for me to refer to.
 
-Useful for me to stash links, probably not useful for you yet.
+Everything is here for a reason and it's worth researching the tradeoffs between
+them. Feel free to ask in more detail.
+
+In the early stages of a project it's important not to get sucked into doing
+everything youself. The chances are you need focus on learning about your
+users and adapting the product design/features. I try to keep complexity down 
+by using tried and tested services that epscialise in each area. Running your own
+assets/logging/database/search/API/CMS can be a trap.
 
 
 ## SPA libraries
@@ -62,16 +70,15 @@ PouchDB
 [lunr.js](http://lunrjs.com): Client side search engine
 
 
-## Assets
+## Third party APIs
 
-Imgix for image hosting
-
-## Logging
+Imgix for image hosting and processing
 
 Papertrail for log storage
 
-Bug tracking service
+Error reporting service
 
+[algiola](https://www.algolia.com) for hosted search
 
 ## Editor
 
