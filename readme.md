@@ -29,7 +29,7 @@ Styled Components for styling React components. Patterns [here](https://medium.c
 
 ## Pre-processors
 
-Babel for writing modern Javascript irrelevent of browser support.
+ES6 Javascript with Babel
 
 
 ## Frontend Testing
@@ -71,6 +71,11 @@ Imgix for image hosting
 Papertrail for log storage
 
 Bug tracking service
+
+
+## Editor
+
+Standard or AirBnB eslint config
 
 
 ## Accessibility
